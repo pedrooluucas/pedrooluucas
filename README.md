@@ -1,6 +1,6 @@
 ### ⚡Olá! Eu sou Pedro Lucas
 
-- 🔭 Estou estudando e progamando hj com JS, HTML, CSS, Python
+- 🔭 Estou estudando e progamando hj com JS, HTML, CSS, Python, Java,
 - 🌱 Estudo varias outras linguagens
 - 📫 Contate-me no email pedrooluucas2010@gmail.com
 - 😄 Pronouns: ele/dele
@@ -23,4 +23,5 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
   src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
 </div>
