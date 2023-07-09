@@ -1,12 +1,5 @@
 ### ⚡Olá Sejam Bem Vindos(a) ao perfil! Pedro Lucas
-
-- 🔭 Estou estudando e progamando hj com JS, HTML, CSS, Python, Java,
-- 🌱 Estudo varias outras linguagens
-- 📫 Contate-me no email pedrooluucas2010@gmail.com
-- 😄 Pronouns: ele/dele
-- ⚡ 
   
-
  <div>
    <a href="https://github.com/pedrooluucas">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrooluucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
