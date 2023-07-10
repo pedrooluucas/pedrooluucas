@@ -1,5 +1,18 @@
 <h1 align="left"><em>Hi there, I'm Pedro Lucas</em>👋🏽</h1>
 <h2 align="left">Welcome to my Profile</h2>
+
+<h3 align="right">
+  <p>
+    <em>Join to my Discord:</em><br>
+    <a href="https://discord.me/devzones">
+      <img src="https://github.com/Zeneilton/Zeneilton/blob/main/icons/discord-dc143c.svg" width="60px">
+    </a>
+  </p>
+  <p>
+    <em>GitHub Visitors:</em><br>
+    <img src="https://profile-counter.glitch.me/{zeneiltongpdev}/count.svg" />
+  </p>
+</h3>
   
  <div>
    <a href="https://github.com/pedrooluucas">
