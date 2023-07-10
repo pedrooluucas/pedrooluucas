@@ -13,6 +13,11 @@
     <img src="https://profile-counter.glitch.me/{pedrooluucas}/count.svg" />
   </p>
 </h3>
+
+<details open>
+  <summary><h3 align="left"><strong>💻 Front-End Basic Knowledge Base</strong></h3></summary>
+  <img src="https://skillicons.dev/icons?i=javascript,css,html,git" />
+</details>
   
  <div>
    <a href="https://github.com/pedrooluucas">
