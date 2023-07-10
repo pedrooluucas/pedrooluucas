@@ -28,19 +28,16 @@
   <summary><h3 align="left"><strong>🛠️ Favorite Tools Knowledge Base:</strong></h3></summary>
   <img src="https://skillicons.dev/icons?i=vscode,github,eclipse" /> <!--&perline=5-->
 </details>
+
+<br>
   
  <div>
-   <a href="https://github.com/pedrooluucas">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrooluucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrooluucas&layout=compact&langs_count=6&theme=tokyonight"/>
-
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alex-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
+  <div align="center">
+    
+   [![GitHub Streak](https://streak-stats.demolab.com?user=pedrooluucas&theme=radical&fire=EB5454&border=FFFFFF)](https://github.com/pedrooluucas)
+  <img width="310em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrooluucas&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10"/><br />
+    <img width="570em" src="https://github-readme-stats.vercel.app/api?username=pedrooluucas&hide=prs,issues&show_icons=true&theme=radical&rank_icon=github&locale=en&line_height=30"/>
 
 </div>
  
