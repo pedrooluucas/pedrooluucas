@@ -10,7 +10,7 @@
   </p>
   <p>
     <em>GitHub Visitors:</em><br>
-    <img src="https://profile-counter.glitch.me/{zeneiltongpdev}/count.svg" />
+    <img src="https://profile-counter.glitch.me/{pedrooluucas}/count.svg" />
   </p>
 </h3>
   
