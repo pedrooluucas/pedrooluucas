@@ -23,6 +23,11 @@
   <summary><h3 align="left"><strong>💻 Back-End Basic Knowledge Base</strong></h3></summary>
   <img src="https://skillicons.dev/icons?i=java,python" />
 </details>
+
+<details open>
+  <summary><h3 align="left"><strong>🛠️ Favorite Tools Knowledge Base:</strong></h3></summary>
+  <img src="https://skillicons.dev/icons?i=vscode,github,eclipse" /> <!--&perline=5-->
+</details>
   
  <div>
    <a href="https://github.com/pedrooluucas">
