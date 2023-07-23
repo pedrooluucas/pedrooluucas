@@ -1,6 +1,7 @@
 <h1 align="left"><em>Hi there, I'm Pedro Lucas</em>👋🏽</h1>
 <h2 align="left">Welcome to my Profile</h2>
 
+
 <div  align="right">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=pedrooluucas&repo=pedrooluucas&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=9c28d4&contentType=svg" alt="Pedro Lucas Github Profile Visitors" height="40px" />
 </div>
@@ -41,4 +42,6 @@
   <a href = "mailto:pedrooluucas2010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dev-pedro-lucas-691706238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
+
+
 
