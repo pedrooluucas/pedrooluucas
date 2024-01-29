@@ -2,11 +2,6 @@
 <h2 align="left">Welcome to my Profile</h2>
 
 
-<div  align="right">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=pedrooluucas&repo=pedrooluucas&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=9c28d4&contentType=svg" alt="Pedro Lucas Github Profile Visitors" height="40px" />
-</div>
-
-
 <details open >
   <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
   <div align="left">
