@@ -5,7 +5,7 @@
 <details open >
   <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
   <div align="left">
-    <img width="350em" src="https://streak-stats.demolab.com?user=pedrooluucas&theme=radical&hide_border=true" />
+    <img width="350em" src="https://streak-stats.demolab.com?user=pedrooluucas&theme=radical&hide_border=true"/>
     <img width="400em" src="https://github-readme-stats.vercel.app/api?username=pedrooluucas&hide=prs,issues&show_icons=true&theme=radical&rank_icon=github&locale=en&line_height=30&hide_border=true"/>
     <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrooluucas&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10&hide_border=true"/>
   </div>
