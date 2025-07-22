@@ -27,6 +27,17 @@
 
  
  <br>
+  
+   ### My Group!
+
+<h3>🔗 Falcon Group!</h3>
+ <a href="https://discord.gg/JvdZTX4nJW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
+  ### Projects Falcon Group!
+
+<h3>🔗 Rizzy City!</h3>
+
+<br>
  
   ### Pra conteúdo sobre programação me segue nas redes abaixo!
 
@@ -35,7 +46,3 @@
   <a href="https://www.instagram.com/pedroo__luucaas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pedrooluucas2010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-lucas-691706238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
- <h3>🔗 Falcon Group!</h3>
-
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
