@@ -1,15 +1,12 @@
 <h1 align="left"><em>Hi there, I'm Pedro Lucas</em>👋🏽</h1>
 <h2 align="left">Welcome to my Profile</h2>
 
+ <h3>🔗 Falcon Group!</h3>
+ <a href="https://discord.gg/JvdZTX4nJW" target="_blank">https://discord.gg/falcongroup</a>
 
-<details open >
-  <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
-  <div align="left">
-    <img width="350em" src="https://streak-stats.demolab.com?user=pedrooluucas&theme=radical&hide_border=true"/>
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=pedrooluucas&hide=prs,issues&show_icons=true&theme=radical&rank_icon=github&locale=en&line_height=30&hide_border=true"/>
-    <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrooluucas&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10&hide_border=true"/>
-  </div>
-</details>
+  <h1>🔗 Projects Falcon Group!</h1>
+  <h4>🔗 Rizzy City!</h4> <a href="https://discord.gg/QeYqsRPhZb" target="_blank">https://discord.gg/rizzycity</a>
+  
 
 ##
 <h1 align="center">Some Technologies I've been practicing 😃</h1>
@@ -30,12 +27,7 @@
   
    ### My Group!
 
-<h3>🔗 Falcon Group!</h3>
- <a href="https://discord.gg/JvdZTX4nJW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
-  ### Projects Falcon Group!
-
-<h3>🔗 Rizzy City!</h3>
 
 <br>
  
