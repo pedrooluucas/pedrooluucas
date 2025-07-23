@@ -1,7 +1,6 @@
 <h1 align="left"><em>Hi there, I'm Pedro Lucas</em>👋🏽</h1>
 <h2 align="left">Welcome to my Profile</h2>
   
-##
 <h1 align="center">Some Technologies I've been practicing 😃</h1>
   
 <div align="center">
