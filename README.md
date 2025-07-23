@@ -16,14 +16,10 @@
 
  
  <br>
-  
-   ### My Group!
-
-
 
 <br>
  
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
+  ### Pra tirar duvidas sobre programação e precisar de algum serviço meu me segue nas redes abaixo!
 
  <h3>🔗 Contact Me!</h3>
 <div> 
