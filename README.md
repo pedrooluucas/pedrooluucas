@@ -1,13 +1,6 @@
 <h1 align="left"><em>Hi there, I'm Pedro Lucas</em>👋🏽</h1>
 <h2 align="left">Welcome to my Profile</h2>
-
- <h3>🔗 Falcon Group!</h3>
- <a href="https://discord.gg/JvdZTX4nJW" target="_blank">https://discord.gg/falcongroup</a>
-
-  <h1>🔗 Projects Falcon Group!</h1>
-  <h4>🔗 Rizzy City!</h4> <a href="https://discord.gg/QeYqsRPhZb" target="_blank">https://discord.gg/rizzycity</a>
   
-
 ##
 <h1 align="center">Some Technologies I've been practicing 😃</h1>
   
